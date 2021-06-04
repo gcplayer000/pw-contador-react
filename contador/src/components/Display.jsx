@@ -7,5 +7,3 @@ export default props => {
         </div>
     )
 )
-
-    
